@@ -20,4 +20,5 @@ if st.button("Prediksi", type="primary"):
 	st.balloons()
 
 st.divider()
-st.caption("Dibuat dengan :coffe: oleh Felix Jago")
+
+st.caption("Dibuat oleh LIZZYCUIII")
